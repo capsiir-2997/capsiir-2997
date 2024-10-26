@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hello!
 
-<!--
-**capsiir-2997/capsiir-2997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a fullstack dev and a really bad reverse engineer. I also barely know anything about cybersecurity and most of my knowledge comes from making random cheats a few years ago. But I try, and that's all that should matter.
 
-Here are some ideas to get you started:
+# Sites I made
+[capsiii](https://capsiii.pixelgun.nexus/) | [WALKER](https://walker.pixelgun.nexus/) | [RECOMPILATION](https://recompilation.net/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Projects I'm working on
+[Pixel Gun Nexus](https://pixelgun.nexus/) | [WALKER](https://walker.pixelgun.nexus/) | [UniCryptor](https://recompilation.net/unicryptor)
+
+# Programming languages I know
+- C++
+- C#
+- JavaScript/TypeScript
+- PHP
